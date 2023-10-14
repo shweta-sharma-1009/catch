@@ -1,0 +1,18 @@
+
+#box {
+    width: 7vw;
+    height: 7vw;
+    background-color: #140146;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
+#box p {
+    font-size: 1.4vw;
+    color: rgb(233, 247, 79);
+}
